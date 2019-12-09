@@ -1,6 +1,8 @@
 import React        from 'react';
 import ProductsList from './ProductList';
 import Header       from './Header';
+import Footer       from './Footer';
+
 import Cart         from '../lib/Cart';
 
 class App extends React.Component {
@@ -17,6 +19,8 @@ class App extends React.Component {
       <div className='App'>
         <Header cart={this.state.cart} />
         <ProductsList cart={this.state.cart} />
+        <Footer />
+       
       </div>
     );
   }

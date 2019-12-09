@@ -41,7 +41,7 @@ CREATE TABLE `products` (
 --
 
 INSERT INTO `products` (`id`, `name`, `price`, `description`, `image_href`) VALUES
-(1, 'Example Product 1', 99.99, 'This is a description of product 1. This is a description of product 1. This is a description of product 1. This is a description of product 1. This is a description of product 1. This is a description of product 1. This is a description of product 1.', 'https://www.mandmdirect.ie/01/details/XW313?ds_rl=1262771&gclid=Cj0KCQiAiZPvBRDZARIsAORkq7cMglQwHmEJdBcRlnjpyMcBULPpf8udTLKHknBIT-wmberiNQDQUrQaAohOEALw_wcB&gclsrc=aw.ds'),
+(1, 'Example Product 1', 99.99, ' This is a description of product 1. This is a description of product 1. This is a description of product 1.', 'https://www.mandmdirect.ie/01/details/XW313?ds_rl=1262771&gclid=Cj0KCQiAiZPvBRDZARIsAORkq7cMglQwHmEJdBcRlnjpyMcBULPpf8udTLKHknBIT-wmberiNQDQUrQaAohOEALw_wcB&gclsrc=aw.ds'),
 (2, 'Example Product 2', 155.00, 'This is a description of product 2. This is a description of product 2. This is a description of product 2. This is a description of product 2. This is a description of product 2. This is a description of product 2. This is a description of product 2. This is a description of product 2. This is a description of product 2. \r\n', 'https://www.dkit.ie/assets/uploads/DkIT%20Funding%20.jpg');
 
 --
