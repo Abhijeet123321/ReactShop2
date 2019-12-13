@@ -1,5 +1,5 @@
 import React    from 'react';
-import ViewCart from './ViewCart';
+
 
 class Footer extends React.Component {
 
