@@ -1,0 +1,39 @@
+body {
+  background-color: black;
+}
+
+body h1 {
+  color: rgba(236, 15, 144, 0.911);
+  font-family: 'Gelasio', serif;
+}
+
+body Table {
+  background-color: #ff0022;
+}
+
+body Table h1 {
+  color: rgba(236, 15, 144, 0.911);
+  font-family: 'Gelasio', serif;
+}
+
+p {
+  color: blue;
+  font-size: 30px;
+}
+
+.card-header {
+  color: orangered;
+}
+
+.row {
+  color: green;
+}
+
+.card-body {
+  background-color: burlywood;
+}
+
+Footer p {
+  color: greenyellow;
+}
+/*# sourceMappingURL=main.css.map */

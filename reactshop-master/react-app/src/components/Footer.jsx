@@ -7,7 +7,7 @@ class Footer extends React.Component {
     return (
       <div className='jumbotron'>
        
-        <p>footer try</p>
+        <center><p>HOPE YOU HAVE A PLEASENT SHOPPING!</p></center>
         
       </div>
     );
